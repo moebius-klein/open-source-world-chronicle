@@ -63,11 +63,30 @@ This is our contribution: an **open staff report for all**.
 
 ---
 
-## 🚀 How to Contribute  
+## 📝 Contributing  
 
-- Fork the repository.  
-- Propose corrections or additional sources via pull request.  
-- Keep the transparency principle intact: urgency, certainty, and sources must always be clear.  
+We welcome contributions! Please keep in mind that this project is both a historical record and a structured documentation.  
+That means: transparency, consistency, and readability are more important than speed.  
+
+### Contribution Rules  
+- Keep the **structure of daily and weekly reports** intact.  
+- Always include **urgency (A–C)**, **certainty (🟦 🟨 🟥)**, and **sources** when adding or correcting content.  
+- Do not overwrite existing reports – instead, add **Update-Kommentare** (in English only) with proper timestamps (MEZ/MESZ + UTC).  
+
+### Commit Messages  
+We expect **semantic commit messages** following the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.  
+
+Examples:  
+- `docs(readme): fix directory tree formatting using text code block`  
+- `chore(ci): remove GitHub Actions workflows directory`  
+
+For details, see [COMMIT_CONVENTIONS.md](./COMMIT_CONVENTIONS.md).  
+
+A commit template (`.gitmessage.txt`) is provided to help you follow the conventions.  
+To enable it locally, run:  
+
+```bash
+git config commit.template .gitmessage.txt
 
 ---
 
