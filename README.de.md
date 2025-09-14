@@ -44,10 +44,11 @@ Dies ist unser Beitrag: ein **offener Stabsbericht für alle**.
 
 ## 📂 Verzeichnisstruktur  
 
-lageberichte/
+```lageberichte/
 ├── 2025-kw38.de.md   # Wochenbericht (Deutsch)
 ├── 2025-kw38.en.md   # Weekly report (English)
 └── ...
+```
 
 - Jeder Tagesbericht wird in die jeweilige Wochenchronik eingebettet.  
 - Tagesaktuelle Ereignisse können als **Update-Kommentare** hinzugefügt werden (nur in Englisch).  
