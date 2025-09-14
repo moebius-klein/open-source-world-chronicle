@@ -1,0 +1,28 @@
+# Semantic Commit Message Template
+#
+# Format: <type>(<scope>): <short summary>
+# Example: docs(readme): fix directory tree formatting using text code block
+#
+# Allowed types:
+#   feat      – new feature
+#   fix       – bug fix
+#   docs      – documentation only
+#   style     – formatting only (no content changes)
+#   refactor  – restructuring (no meaning change)
+#   perf      – performance improvements
+#   test      – adding or updating tests
+#   chore     – meta, configs, housekeeping
+#   ci        – continuous integration changes
+#
+# Recommended scopes:
+#   readme, docs, license, reports, ci, infra, conventions
+#
+# Summary: keep it short (max. 50 characters), imperative mood
+#
+# Body (optional): explain what and why (wrap at 72 chars)
+#
+# Footer (optional): link to issue, ticket or reference
+#
+# Lines starting with '#' are ignored.
+
+<type>(<scope>): <short summary>
