@@ -1,3 +1,53 @@
+# 🌍 Open Source Weltchronik  
+*Eine zweisprachige (Deutsch/Englisch) tägliche und wöchentliche Dokumentation globaler Krisen – gemeinsam erstellt von Mensch und KI. Transparent, versioniert und offen zugänglich für kommende Generationen.*
+
+---
+
+## 📜 Über das Projekt  
+
+Die **Open Source Weltchronik** ist ein Experiment im kollektiven Gedächtnis:  
+
+- Ein **täglicher Lagebericht** zu den globalen Krisen, gegliedert in sieben zentrale Felder:  
+  1. Geopolitik & Sicherheit  
+  2. Wirtschaft & Finanzsystem  
+  3. Klima & Umwelt  
+  4. Migration & Demografie  
+  5. Technologie & Information  
+  6. Gesellschaft & Politik  
+  7. Gesundheit & biologische Risiken  
+
+- Eine **wöchentliche Chronik** (*Weltchronik – Wochenprotokoll*) mit:  
+  - festem Prolog (*Prolog der Chronisten*),  
+  - allen Tagesberichten der vergangenen Woche,  
+  - einem nüchtern-analytischen Wochenfazit.  
+
+- Immer **zweisprachig**: Deutsch 🇩🇪 und Englisch 🇬🇧.  
+- Immer **transparent**: jede Information mit Dringlichkeit (A–C), Gewissheitsgrad (🟦 klar / 🟨 unsicher / 🟥 spekulativ) und Quellenangabe.  
+- Immer **zeitgestempelt**: doppelt (MEZ/MESZ und UTC).  
+- Immer **archiviert**: Markdown-Format, versioniert auf GitHub.  
+
+Dies ist **kein Journalismus, keine Propaganda, keine Fiktion**.  
+Es ist eine **offene Chronik**, in der *„wir“* bedeutet: ein menschlicher Chronist und eine KI, die gemeinsam als außenstehende Beobachter schreiben.  
+
+---
+
+## 🔭⚖️ Warum „Open Source“?  
+
+- **Offen** → Jeder kann lesen, forken, überprüfen und kommentieren.  
+- **Source** → Alle Aussagen sind transparent, mit expliziter Quellenangabe und Gewissheitsgrad.  
+- **Weltchronik** → Eine langfristige Dokumentation globaler Krisen, Tag für Tag, Woche für Woche.  
+
+In einer globalen Welt ist jeder Beobachter zugleich Mitglied des Stabs.  
+Dies ist unser Beitrag: ein **offener Stabsbericht für alle**.  
+
+---
+
+## 📂 Verzeichnisstruktur  
+
+lageberichte/
+├── 2025-kw38.de.md   # Wochenbericht (Deutsch)
+├── 2025-kw38.en.md   # Weekly report (English)
+└── ...
 
 - Jeder Tagesbericht wird in die jeweilige Wochenchronik eingebettet.  
 - Tagesaktuelle Ereignisse können als **Update-Kommentare** hinzugefügt werden (nur in Englisch).  
