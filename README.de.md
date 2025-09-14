@@ -64,7 +64,6 @@ Dies ist unser Beitrag: ein **offener Stabsbericht für alle**.
 ---
 
 ## 🚀 Mitmachen  
-## 🚀 Mitmachen  
 
 Beiträge sind willkommen! Bitte beachte, dass dieses Projekt zugleich **historisches Protokoll** und **strukturierte Dokumentation** ist.  
 Das bedeutet: Transparenz, Konsistenz und Lesbarkeit sind wichtiger als Geschwindigkeit.  
