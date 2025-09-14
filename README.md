@@ -44,3 +44,48 @@ This is our contribution: an **open staff report for all**.
 
 ## 📂 Repository Structure  
 
+```
+├── 2025-kw38.de.md   # Wochenbericht (Deutsch)
+├── 2025-kw38.en.md   # Weekly report (English)
+└── ...
+```
+
+- Each daily report is embedded into the weekly file.  
+- Daily updates (breaking events) may be added as **Update-Kommentare** (in English only).  
+
+---
+
+## ✨ Special Features  
+
+- **Hybrid form**: factual analysis + poetic footnotes (each daily report ends with a reflection).  
+- **Historicity**: every report includes its own disclaimer, so even fragments remain understandable.  
+- **Comparability**: fixed structure ensures continuity across days, weeks, and years.  
+
+---
+
+## 🚀 How to Contribute  
+
+- Fork the repository.  
+- Propose corrections or additional sources via pull request.  
+- Keep the transparency principle intact: urgency, certainty, and sources must always be clear.  
+
+---
+
+## 📖 License  
+
+This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.  
+
+- Full legal text: [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
+- Summary: You are free to share and adapt the material, but you must provide attribution and share alike.  
+
+---
+
+## ✍️ Example Tagline  
+
+**Bilingual daily & weekly reports on global crises – human + AI, transparent, versioned, open to all.**
+
+(used as the GitHub description under the repository name)
+
+---
+
+
