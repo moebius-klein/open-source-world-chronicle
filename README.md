@@ -87,6 +87,7 @@ To enable it locally, run:
 
 ```bash
 git config commit.template .gitmessage.txt
+```
 
 ---
 
