@@ -44,12 +44,12 @@ This is our contribution: an **open staff report for all**.
 
 ## 📂 Repository Structure  
 
-```text
+~~~text
 lageberichte/
 ├── 2025-kw38.de.md   # Wochenbericht (Deutsch)
 ├── 2025-kw38.en.md   # Weekly report (English)
 └── ...
-```
+~~~
 
 - Each daily report is embedded into the weekly file.  
 - Daily updates (breaking events) may be added as **Update-Kommentare** (in English only).  
