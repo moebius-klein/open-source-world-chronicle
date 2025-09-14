@@ -64,11 +64,31 @@ Dies ist unser Beitrag: ein **offener Stabsbericht für alle**.
 ---
 
 ## 🚀 Mitmachen  
+## 🚀 Mitmachen  
 
-- Forke das Repository.  
-- Schlage Korrekturen oder zusätzliche Quellen per Pull Request vor.  
-- Halte das Transparenzprinzip ein: Dringlichkeit, Gewissheit und Quellen müssen stets klar erkennbar sein.  
+Beiträge sind willkommen! Bitte beachte, dass dieses Projekt zugleich **historisches Protokoll** und **strukturierte Dokumentation** ist.  
+Das bedeutet: Transparenz, Konsistenz und Lesbarkeit sind wichtiger als Geschwindigkeit.  
 
+### Beitragsregeln  
+- Die **Struktur der Tages- und Wochenberichte** darf nicht verändert werden.  
+- Jede Ergänzung oder Korrektur muss **Dringlichkeit (A–C)**, **Gewissheit (🟦 🟨 🟥)** und **Quellen** enthalten.  
+- Bestehende Berichte nicht überschreiben – stattdessen **Update-Kommentare** (nur Englisch) mit klaren Zeitstempeln (MEZ/MESZ + UTC) hinzufügen.  
+
+### Commit-Messages  
+Wir erwarten **semantische Commit-Messages** nach dem Standard [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
+
+Beispiele:  
+- `docs(readme): fix directory tree formatting using text code block`  
+- `chore(ci): remove GitHub Actions workflows directory`  
+
+Details siehe [COMMIT_CONVENTIONS.md](./COMMIT_CONVENTIONS.md).  
+
+Eine Commit-Vorlage (`.gitmessage.txt`) hilft, diese Konventionen einzuhalten.  
+Um die Vorlage lokal zu aktivieren, führe aus:  
+
+```bash
+git config commit.template .gitmessage.txt
+```
 ---
 
 ## 📖 Lizenz  
